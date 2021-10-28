@@ -12,6 +12,7 @@
 
 ----
 <p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/Screenshot_20211028_115958.jpg" alt="Bt">
+
 ----
 
 ## Commands
